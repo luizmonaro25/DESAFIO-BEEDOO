@@ -2,9 +2,9 @@
 
 ## User Story 1: Cadastro de Cursos
 
-Ao acessar a plataforma através da URL: https://creative-sherbet-a51eac.netlify.app
-Eu quero cadastrar novos cursos na plataforma Beedoo
-Para que os usuários possam visualizar e se inscrever nos cursos disponíveis
+Ao acessar a plataforma através da URL: https://creative-sherbet-a51eac.netlify.app /p
+Eu quero cadastrar novos cursos na plataforma Beedoo /p
+Para que os usuários possam visualizar e se inscrever nos cursos disponíveis /p
 
 ### Critérios de Aceitação: 
 
