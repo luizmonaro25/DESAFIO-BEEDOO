@@ -16,9 +16,9 @@ Para que os usuários possam visualizar e se inscrever nos cursos disponíveis
 
 ## User Story 2: Exclusão de Cursos
 
-Ao acessar a plataforma através da URL: https://creative-sherbet-a51eac.netlify.app
-Eu quero excluir cursos cadastrados da plataforma BeeDoo
-Para que os usuários não possam visualizar e se inscrever em cursos inexistentes
+Ao acessar a plataforma através da URL: https://creative-sherbet-a51eac.netlify.app  
+Eu quero excluir cursos cadastrados da plataforma BeeDoo  
+Para que os usuários não possam visualizar e se inscrever em cursos inexistentes  
 
 ### Critérios de Aceitação: 
 
