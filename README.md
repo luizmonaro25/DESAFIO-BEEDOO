@@ -50,4 +50,4 @@ Para que eu possa atualizar os registros dos cursos conforme necessário
 #### **Vídeos das Simulações Realizadas:** https://1drv.ms/f/c/a2f3b9d1c3e143ca/EkBRP6neh9xMoraZh-Oc8KsBYOcRPXgrBaWgijpbHbK_HA?e=qFyM7O
 #### **Erros encontrados:** https://docs.google.com/document/d/1non-XXVclP8Z7cZY4o5Ve_cmoai3O-rCk3g1Szdj0Xs/edit?usp=sharing  
 #### **Sugestões de melhorias:** https://docs.google.com/document/d/1aw6nWN_wfOs7YtRF8_5QJilOmoJPtMoc33-nXZBZy_c/edit?usp=sharing  
-#### **Exemplos melhorias visuais:** https://1drv.ms/f/c/a2f3b9d1c3e143ca/EnnjJlIEZe1FmasOSsBRpVABvvwJT3x8MCCKH7EFRhTz6g?e=b4bN3S  
+#### **Exemplos melhorias visuais:** https://1drv.ms/f/c/a2f3b9d1c3e143ca/EnnjJlIEZe1FmasOSsBRpVABvvwJT3x8MCCKH7EFRhTz6g?e=b4bN3S](https://www.figma.com/design/g2UthVXWmmT29dF5CzLBdy/Untitled?node-id=0-1&t=gtp1V6RrhiKv5tvr-1  
