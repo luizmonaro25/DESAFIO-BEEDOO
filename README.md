@@ -26,19 +26,28 @@ Para que esses cursos não possam ser salvos e visualizados por outros usuários
 **4 - Bloqueio de envio:** O envio do cadastro de curso será bloqueado até que todos os campos possuam entradas válidas, garantindo assim a integridade dos dados.  
 
 ## User Story 3: 
+Ao acessar a plataforma e tendo cursos cadastrados  
+Eu quero realizar a exclusão de um registro  
+Para que o curso deixe de ser apresentado  
+
+### Decisões Tomadas: 
+**1 - Confirmação de Exclusão:** mensagem clara de confirmação antes da exclusão.  
+**2 - Permissões de Usuário:** apenas usuários com permissões adequadas podem excluir cursos.  
+**3 - Curso Após a Exclusão:** o curso não deve ser mais apresentado após o processo.  
 
 ## User Story 4: Edição de registros de cursos
 
-Como um administrador da plataforma
+Ao acessar a plataforma  
 Eu quero editar os registros de cursos existentes 
 Para que eu possa atualizar os registros dos cursos conforme necessário
 
 ### Decisões Tomadas:
-**1 - Interface de Edição:** editar as informações do curso através de uma interface de edição de curso semelhante à interface de cadastro, com campos pré-preenchidos com as informações atuais do curso.
-**2 - Validações:** manter as mesmas validações aplicadas no cadastro de curso, garantindo que as informações editadas sejam válidas.
+**1 - Interface de Edição:** editar as informações do curso através de uma interface de edição de curso semelhante à interface de cadastro, com campos pré-preenchidos com as informações atuais do curso.  
+**2 - Validações:** manter as mesmas validações aplicadas no cadastro de curso, garantindo que as informações editadas sejam válidas.  
 
 ## Links
-#### Casos e Cenários de Testes: https://docs.google.com/document/d/1GSmhuRpR_U-ufp4OgXQJniwVp-6KIcQW0j1_gZqTLyg/edit?usp=sharing
-#### Vídeos das Simulações Realizadas:  
-#### Erros encontrados:  
-#### Sugestões de melhorias:  
+#### **Casos e Cenários de Testes:** https://docs.google.com/document/d/1GSmhuRpR_U-ufp4OgXQJniwVp-6KIcQW0j1_gZqTLyg/edit?usp=sharing
+#### **Vídeos das Simulações Realizadas:** https://1drv.ms/f/c/a2f3b9d1c3e143ca/EkBRP6neh9xMoraZh-Oc8KsBYOcRPXgrBaWgijpbHbK_HA?e=qFyM7O
+#### **Erros encontrados:** https://docs.google.com/document/d/1non-XXVclP8Z7cZY4o5Ve_cmoai3O-rCk3g1Szdj0Xs/edit?usp=sharing  
+#### **Sugestões de melhorias:** https://docs.google.com/document/d/1aw6nWN_wfOs7YtRF8_5QJilOmoJPtMoc33-nXZBZy_c/edit?usp=sharing  
+#### **Exemplos melhorias visuais:** https://1drv.ms/f/c/a2f3b9d1c3e143ca/EnnjJlIEZe1FmasOSsBRpVABvvwJT3x8MCCKH7EFRhTz6g?e=b4bN3S  
