@@ -25,7 +25,7 @@ Para que esses cursos não possam ser salvos e visualizados por outros usuários
 **3 - Teste de limitações de campo:** Decidimos testar os limites e as restrições dos campos, como tamanho máximo e mínimo de caracteres, formatos de data, e padrões de URL.  
 **4 - Bloqueio de envio:** O envio do cadastro de curso será bloqueado até que todos os campos possuam entradas válidas, garantindo assim a integridade dos dados.  
 
-## User Story 3: 
+## User Story 3: Exclusão de um curso cadastrado
 Ao acessar a plataforma e tendo cursos cadastrados  
 Eu quero realizar a exclusão de um registro  
 Para que o curso deixe de ser apresentado  
